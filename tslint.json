@@ -146,6 +146,8 @@
       true,
       "element",
       "app",
+      // criar seletor para os seus componentes
+      "guide",
       "kebab-case"
     ]
   }
